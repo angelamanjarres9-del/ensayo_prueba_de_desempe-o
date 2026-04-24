@@ -1,0 +1,37 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+background-color: #000000;
+font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+color: antiquewhite;
+}
+
+header{
+    background-color: #121212;
+    padding: 1fr 2fr;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+}
+.logo-main1{
+    font-size: 50px;
+    font-weight: 100;
+    color: antiquewhite;
+    font-family: 'Trebuchet MS',lato,montserrat;
+
+}
+.logo-main2{
+    color: rgb(166, 107, 18);
+    font-family: italic;
+    font-style: italic,cursive;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Añade sombra decorativa */
+    font-size:20px;
+}
