@@ -12,12 +12,9 @@ The main goal is to attract food lovers and get them to buy their tickets.
 - Font Awesome — icons for social media links in the footer
 
 ## Project structure
-```
-entrgeable_ensayo.html/
-├── restaurante.html   → main HTML file with all the page content
-├── styleFES.css       → all styles: colors, layout, typography and responsive design
-└── readme.md          → project documentation
-```
+- restaurante.html — main HTML file with all the page content
+- styleFES.css — all styles: colors, layout, typography and responsive design
+- readme.md — project documentation
 
 ## Sections included
 - **Header** — festival logo and navigation menu
